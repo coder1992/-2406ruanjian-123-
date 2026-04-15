@@ -1,5 +1,5 @@
 from math import ceil
-
+//weight表示重量
 weight=float(input("请输入重量"))
 pos=int(input("请输入地区编号"))
 if pos==1:
