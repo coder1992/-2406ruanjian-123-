@@ -1,3 +1,4 @@
+//opensource-test用户写的注释：用来判断游客是否要交费
 print("欢迎来到儿童乐园，儿童免费，成人收费")
 age=input("请输入您的年龄")
 if int(age)>=18:
